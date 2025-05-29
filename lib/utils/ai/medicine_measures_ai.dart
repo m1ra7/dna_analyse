@@ -34,7 +34,7 @@ class _MedicineAiState extends State<MedicineAi> {
     try {
       final model = GenerativeModel(
         model: 'gemini-1.5-flash',
-        apiKey: '', // API
+        apiKey: apiKey, // API
       );
       // final prompt = "$name $metin";
       // final prompt =
@@ -130,7 +130,7 @@ class _MeasuresAiState extends State<MeasuresAi> {
     try {
       final model = GenerativeModel(
         model: 'gemini-1.5-flash',
-        apiKey: apiKey, // API anahtarını buraya gir
+        apiKey: "", // API anahtarını buraya gir
       );
       // final prompt ="$name nedemek? Ne işe yarar? faydaliri nedir? Yan etkileri nelerdir?";
       final prompt =
