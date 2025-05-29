@@ -1,0 +1,605 @@
+{
+    "analysisResult": {
+      "analysesInformation": {
+        "analysisName": "88Sample DNA Analysis with Known Markers",
+        "sequenceLength": 1500,
+        "analysisTypes": [
+          "health_risk",
+          "nutrition",
+          "fitness",
+          "genetic_traits"
+        ],
+        "createdAt": "2025.05.28",
+        "keyFindings": [
+          "Your DNA profile has been analyzed across several health domains.",
+          "Identified 0 potential health risk factors",
+          "Detected 3 nutritional sensitivities",
+          "Found 2 fitness-related genetic markers"
+        ],
+        "labName": "Genetics Lab",
+        "referenceNumber": "DNA-2023-8876",
+        "technologyUsed": "Next-Generation Sequencing",
+        "additionalInfo": [
+          "Analysis performed using Next-Gen Sequencing",
+          "Coverage depth: 30x",
+          "Quality score: Q30"
+        ]
+      },
+      "healthRisk": {
+        "riskScore": 0.3,
+        "medicationRecommendations": [
+          {
+            "id": "med1",
+            "name": "Paracetamol",
+            "dosage": "500mg",
+            "startDate": "2025-05-28T14:38:12.000Z",
+            "time": {
+              "hour": 9,
+              "minute": 0
+            },
+            "isActive": true,
+            "notes": "Aç karnına al",
+            "status": "upcoming",
+            "isTakenToday": false,
+            "takenDates": []
+          },
+          {
+            "id": "med2",
+            "name": "Ibuprofen",
+            "dosage": "200mg",
+            "startDate": "2025-05-28T14:38:12.000Z",
+            "time": {
+              "hour": 14,
+              "minute": 0
+            },
+            "isActive": true,
+            "notes": "Yemekten sonra al",
+            "status": "upcoming",
+            "isTakenToday": false,
+            "takenDates": []
+          },
+          {
+            "id": "med3",
+            "name": "Aspirin",
+            "dosage": "300mg",
+            "startDate": "2025-05-26T14:38:12.000Z",
+            "time": {
+              "hour": 7,
+              "minute": 30
+            },
+            "isActive": true,
+            "notes": "Geceleri al",
+            "status": "upcoming",
+            "isTakenToday": false,
+            "takenDates": []
+          },
+          {
+            "id": "med4",
+            "name": "Amoxicillin",
+            "dosage": "500mg",
+            "startDate": "2025-05-29T14:38:12.000Z",
+            "time": {
+              "hour": 8,
+              "minute": 0
+            },
+            "isActive": true,
+            "notes": "Yemekle birlikte al",
+            "status": "upcoming",
+            "isTakenToday": false,
+            "takenDates": []
+          },
+          {
+            "id": "med5",
+            "name": "Metformin",
+            "dosage": "500mg",
+            "startDate": "2025-05-28T14:38:12.000Z",
+            "time": {
+              "hour": 18,
+              "minute": 30
+            },
+            "isActive": true,
+            "notes": "Akşamları al",
+            "status": "upcoming",
+            "isTakenToday": false,
+            "takenDates": []
+          },
+          {
+            "id": "med6",
+            "name": "Loratadine",
+            "dosage": "10mg",
+            "startDate": "2025-05-23T14:38:12.000Z",
+            "time": {
+              "hour": 20,
+              "minute": 0
+            },
+            "isActive": true,
+            "notes": "Alerji için",
+            "status": "upcoming",
+            "isTakenToday": false,
+            "takenDates": []
+          },
+          {
+            "id": "med7",
+            "name": "Simvastatin",
+            "dosage": "20mg",
+            "startDate": "2025-05-31T14:38:12.000Z",
+            "time": {
+              "hour": 21,
+              "minute": 0
+            },
+            "isActive": true,
+            "notes": "Gece yatmadan önce al",
+            "status": "upcoming",
+            "isTakenToday": false,
+            "takenDates": []
+          },
+          {
+            "id": "med8",
+            "name": "Omeprazole",
+            "dosage": "20mg",
+            "startDate": "2025-06-01T14:38:12.000Z",
+            "time": {
+              "hour": 7,
+              "minute": 0
+            },
+            "isActive": true,
+            "notes": "Aç karnına al",
+            "status": "upcoming",
+            "isTakenToday": false,
+            "takenDates": []
+          },
+          {
+            "id": "med9",
+            "name": "Cetirizine",
+            "dosage": "10mg",
+            "startDate": "2025-05-28T14:38:12.000Z",
+            "time": {
+              "hour": 12,
+              "minute": 0
+            },
+            "isActive": true,
+            "notes": "Günlük al",
+            "status": "upcoming",
+            "isTakenToday": false,
+            "takenDates": []
+          },
+          {
+            "id": "med10",
+            "name": "Losartan",
+            "dosage": "50mg",
+            "startDate": "2025-05-28T14:38:12.000Z",
+            "time": {
+              "hour": 13,
+              "minute": 27
+            },
+            "isActive": true,
+            "notes": "Sabahları al",
+            "status": "upcoming",
+            "isTakenToday": false,
+            "takenDates": []
+          },
+          {
+            "id": "med11",
+            "name": "Hydrochlorothiazide",
+            "dosage": "25mg",
+            "startDate": "2025-05-30T14:38:12.000Z",
+            "time": {
+              "hour": 9,
+              "minute": 0
+            },
+            "isActive": true,
+            "notes": "Sabahları al",
+            "status": "upcoming",
+            "isTakenToday": false,
+            "takenDates": []
+          },
+          {
+            "id": "med12",
+            "name": "Sertraline",
+            "dosage": "50mg",
+            "startDate": "2025-06-02T14:38:12.000Z",
+            "time": {
+              "hour": 7,
+              "minute": 45
+            },
+            "isActive": true,
+            "notes": "Sabahları al",
+            "status": "upcoming",
+            "isTakenToday": false,
+            "takenDates": []
+          },
+          {
+            "id": "med13",
+            "name": "Gabapentin",
+            "dosage": "300mg",
+            "startDate": "2025-06-03T14:38:12.000Z",
+            "time": {
+              "hour": 22,
+              "minute": 0
+            },
+            "isActive": true,
+            "notes": "Gece yatmadan önce al",
+            "status": "upcoming",
+            "isTakenToday": false,
+            "takenDates": []
+          },
+          {
+            "id": "med14",
+            "name": "Furosemide",
+            "dosage": "40mg",
+            "startDate": "2025-05-28T14:38:12.000Z",
+            "time": {
+              "hour": 8,
+              "minute": 30
+            },
+            "isActive": true,
+            "notes": "Sabahları al",
+            "status": "upcoming",
+            "isTakenToday": false,
+            "takenDates": []
+          },
+          {
+            "id": "med15",
+            "name": "Clopidogrel",
+            "dosage": "75mg",
+            "startDate": "2025-05-25T14:38:12.000Z",
+            "time": {
+              "hour": 10,
+              "minute": 0
+            },
+            "isActive": true,
+            "notes": "Yemekle birlikte al",
+            "status": "upcoming",
+            "isTakenToday": false,
+            "takenDates": []
+          }
+        ],
+        "preventiveMeasures": [
+          "Bol su iç",
+          "Günde 30 dakika yürüyüş yap",
+          "Günde 8 bardak su iç",
+          "Düzenli egzersiz yap (günde en az 30 dakika yürüyüş)",
+          "Sağlıklı ve dengeli beslen",
+          "Sigara ve alkolden uzak dur",
+          "Düzenli uyku (günde 7-8 saat)",
+          "Stresi azaltacak aktiviteler yap (meditasyon, yoga, vs.)",
+          "Yüksek kalorili ve işlenmiş gıdalardan kaçın",
+          "Düzenli sağlık kontrolleri yaptır",
+          "Ellerini sık sık yıka",
+          "Hijyene dikkat et",
+          "Meyve ve sebze tüketimini artır",
+          "Şeker tüketimini azalt",
+          "Tuz kullanımını azalt",
+          "Güneş ışığı al ama koruyucu kullan",
+          "D vitamini seviyeni kontrol ettir",
+          "Kahve ve enerji içeceği tüketimini sınırlı tut",
+          "Günde en az 1 defa açık havaya çık",
+          "Sırt ve duruş pozisyonuna dikkat et",
+          "Zihinsel aktiviteler yap (bulmaca, kitap okuma vs.)",
+          "Yeterli lif alımı sağla (tam tahıllar, sebzeler)",
+          "Kafein tüketimini akşam saatlerinde sınırla",
+          "Yeterli miktarda protein al",
+          "Günlük multivitamin kullan (doktor önerisiyle)",
+          "Düzenli olarak tansiyonunu ve nabzını ölç"
+        ],
+        "healthConditions": {
+          "rad1": [
+            {
+              "name": "cardiovascularDisease",
+              "recommendations": [
+                "Regular cardio exercise",
+                "Heart-healthy diet",
+                "Monitor blood pressure",
+                "Avoid smoking"
+              ],
+              "risk": 40,
+              "markers": [
+                "9p21",
+                "LDLR",
+                "APOB"
+              ],
+              "riskLevel": "High"
+            },
+            {
+              "name": "alzheimersDisease",
+              "riskLevel": "High",
+              "markers": [
+                "APOE ε4",
+                "CLU",
+                "CR1"
+              ],
+              "recommendations": [
+                "Cognitive exercises",
+                "Mediterranean diet",
+                "Regular physical activity",
+                "Quality sleep routine"
+              ],
+              "risk": 10
+            },
+            {
+              "name": "rheumatoidArthritis",
+              "riskLevel": "Moderate",
+              "markers": [
+                "HLA-DRB1",
+                "PTPN22",
+                "STAT4"
+              ],
+              "recommendations": [
+                "Joint-supportive exercise",
+                "Regular monitoring",
+                "Anti-inflammatory diet",
+                "Vitamin D supplementation"
+              ],
+              "risk": 20
+            },
+            {
+              "name": "type2Diabetes",
+              "riskLevel": "Moderate",
+              "markers": [
+                "TCF7L2",
+                "PPARG",
+                "KCNJ11"
+              ],
+              "recommendations": [
+                "Monitor blood sugar levels",
+                "Balanced carbohydrate intake",
+                "Regular exercise",
+                "Maintain healthy weight"
+              ],
+              "risk": 13
+            },
+            {
+              "name": "colorectalCancer",
+              "riskLevel": "Low",
+              "markers": [
+                "APC",
+                "MLH1",
+                "MSH2"
+              ],
+              "recommendations": [
+                "Regular colonoscopy after 45",
+                "High-fiber diet",
+                "Limit processed meats",
+                "Maintain healthy weight"
+              ],
+              "risk": 11
+            }
+          ],
+          "rad2": [
+            {
+              "name": "bodyMassIndex",
+              "riskLevel": "Moderate",
+              "markers": [
+                "HLA-DRB1",
+                "PTPN22",
+                "STAT4"
+              ],
+              "recommendations": [
+                "Regular exercise",
+                "Balanced diet"
+              ],
+              "risk": 40
+            },
+            {
+              "name": "bloodPressure",
+              "riskLevel": "High",
+              "markers": [
+                "ACE",
+                "AGT"
+              ],
+              "recommendations": [
+                "Reduce salt intake",
+                "Monitor daily"
+              ],
+              "risk": 60
+            },
+            {
+              "name": "cholesterol",
+              "riskLevel": "Low",
+              "markers": [
+                "LDLR",
+                "APOB"
+              ],
+              "recommendations": [
+                "Low-fat diet",
+                "Cardio exercises"
+              ],
+              "risk": 20
+            },
+            {
+              "name": "bloodSugar",
+              "riskLevel": "Moderate",
+              "markers": [
+                "GCK",
+                "HNF1A"
+              ],
+              "recommendations": [
+                "Limit sugar intake",
+                "Regular checkups"
+              ],
+              "risk": 35
+            },
+            {
+              "name": "sleepQuality",
+              "riskLevel": "Low",
+              "markers": [
+                "Cortisol",
+                "Melatonin"
+              ],
+              "recommendations": [
+                "Regular sleep schedule",
+                "Avoid caffeine before bed"
+              ],
+              "risk": 10
+            },
+            {
+              "name": "physicalCondition",
+              "riskLevel": "Moderate",
+              "markers": [
+                "Testosterone",
+                "Growth Hormone"
+              ],
+              "recommendations": [
+                "Exercise 3 times a week",
+                "Balanced protein intake"
+              ],
+              "risk": 30
+            }
+          ]
+        }
+      },
+      "userInformation": {
+        "name": "Mirac",
+        "surname": "Suicmez",
+        "age": 24,
+        "gender": "erkek",
+        "ethnicity": "Europe",
+        "medicalHistory": "medicalHistory",
+        "familyHistory": "familyHistory",
+        "bloodType": "0 RH+",
+        "height": "179",
+        "weight": "73",
+        "allergies": "Yok",
+        "currentMedications": "Yok",
+        "haircolor": "Blue",
+        "eyecolor": "Ela"
+      },
+      "geneticTraits": {
+        "tastePerception": "Tatlıyı daha fazla hissediyor",
+        "circadianRhythm": "Sabahcı",
+        "colorVision": "Normal",
+        "muscleStrength": "Orta düzeyde kas gücü",
+        "painPerception": "Yüksek ağrı toleransı",
+        "immuneSystemStrength": "Soğuk algınlığına karşı dirençli",
+        "traits": [
+          {
+            "title": "Earwax Type",
+            "result": "Dry-type earwax",
+            "gene": "ABCC11",
+            "prevalence": "Common in East Asian populations",
+            "description": "Your genetic results indicate you have dry-type earwax, which is associated with the ABCC11 gene variant.",
+            "implications": [
+              "Common in 80-95% of East Asians",
+              "Associated with reduced body odor",
+              "May impact personal hygiene product choices"
+            ],
+            "globalDistribution": [
+              {
+                "key": "East Asian",
+                "value": "80-90"
+              },
+              {
+                "key": "Other",
+                "value": "5-20"
+              }
+            ]
+          },
+          {
+            "title": "Taste Perception",
+            "result": "Super Taster",
+            "gene": "TAS2R38",
+            "prevalence": "About 25% of population",
+            "description": "You have heightened sensitivity to bitter tastes due to variations in your TAS2R38 gene.",
+            "implications": [
+              "More sensitive to bitter flavors",
+              "May dislike certain vegetables",
+              "Potentially more sensitive to spicy foods"
+            ],
+            "globalDistribution": [
+              {
+                "key": "Non-Taster",
+                "value": 0.3
+              },
+              {
+                "key": "Medium",
+                "value": 0.4
+              },
+              {
+                "key": "Super-Taster",
+                "value": 0.3
+              }
+            ]
+          },
+          {
+            "title": "Circadian Rhythm",
+            "result": "Morning Chronotype",
+            "gene": "PER3",
+            "prevalence": "15-20% of population",
+            "description": "Your genetic profile suggests you're naturally inclined to be a morning person.",
+            "implications": [
+              "Better productivity in mornings",
+              "May struggle with night shifts",
+              "Earlier natural sleep/wake times"
+            ],
+            "globalDistribution": null
+          },
+          {
+            "title": "Lactose Tolerance",
+            "result": "Lactose Intolerant",
+            "gene": "MCM6",
+            "prevalence": "65% of adults worldwide",
+            "description": "Your genetic results suggest reduced lactase enzyme activity in adulthood.",
+            "implications": [
+              "Potential discomfort from dairy",
+              "May need lactose-free alternatives",
+              "Common in most global populations"
+            ],
+            "globalDistribution": null
+          },
+          {
+            "title": "Muscle Composition",
+            "result": "Power/Strength Oriented",
+            "gene": "ACTN3",
+            "prevalence": "30% of Europeans",
+            "description": "Your genetic profile shows a predisposition for power and strength activities.",
+            "implications": [
+              "Higher proportion of fast-twitch fibers",
+              "May excel in sprinting",
+              "Potential for power sports advantage"
+            ],
+            "globalDistribution": null
+          }
+        ]
+      },
+      "keyHealthMetrics": {
+        "cardiovascular": 4,
+        "neurological": 6,
+        "metabolisma": 3,
+        "immuneSystem": 2
+      },
+      "nutritionProfile": {
+        "vitaminNeeds": "Vitamin A, Vitamin D",
+        "mineralNeeds": "Iron, Calcium ",
+        "macronutrientSensitivities": "Lactose, Gluten",
+        "type": "Dengeli metabolizma",
+        "diet": "Dengeli beslenme",
+        "rate": 2200,
+        "maintenance": 1432,
+        "weightLoss": 1923,
+        "weightGain": 2001,
+        "macronutrientData": {
+          "carbohydrates": 30.0,
+          "protein": 40.0,
+          "fats": 20.0
+        }
+      },
+      "fitnessProfile": {
+        "endurance": "High",
+        "strength": "Medium",
+        "aptitude": {
+          "power": 60.0,
+          "flexibility": 50.0,
+          "strength": 58.0,
+          "endurance": 52.0
+        },
+        "recommendations": [
+          "Exercise1",
+          "Exercise2"
+        ],
+        "muscleFiberComposition": {
+          "fastTwitch": 35.0,
+          "slowTwich": 65.0
+        }
+      }
+    }
+}

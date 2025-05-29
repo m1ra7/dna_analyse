@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948850736876",
+    "project_id": "dna-analyse",
+    "storage_bucket": "dna-analyse.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948850736876:android:6162d6eade17e22498efc9",
+        "android_client_info": {
+          "package_name": "com.example.dna_analyse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoO-1IFM5ARZzg6F2JkMI7W3v6q5MbByU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
