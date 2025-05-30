@@ -2,12 +2,12 @@
 
 A new Flutter project.
 
-## Screenshots
+## Preview
 
 <p>
 <img src="assets/Preview/image1.jpeg" width="300"/><img src="assets/Preview/image2.jpeg" width="300"/>
-
-
+<img src="assets/Preview/image3.jpeg" width="300"/><img src="assets/Preview/image4.jpeg" width="300"/>
+<img src="assets/Preview/image5.jpeg" width="300"/><img src="assets/Preview/image6.jpeg" width="300"/>
 </p>
 
 ## Getting Started
