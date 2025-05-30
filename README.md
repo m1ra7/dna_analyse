@@ -67,9 +67,9 @@ Evaluates physical performance including:
 <img src="assets/Preview/image1.jpeg" width="220"/> <img src="assets/Preview/image2.jpeg" width="220"/>
 <img src="assets/Preview/image3.jpeg" width="220"/> <img src="assets/Preview/image4.jpeg" width="220"/>
 <img src="assets/Preview/image5.jpeg" width="220"/> <img src="assets/Preview/image6.png" width="220"/>
-<img src="assets/Preview/image7.png" width="220"/> <img src="assets/Preview/image8.png" width="220"/>
+<img src="assets/Preview/image7.png" width="220"/> 
 
-https://github.com/user-attachments/assets/a74e29e8-657e-4876-b032-d167b3369c50
+## Analysing
 ![ScreenRecording_05-30-202513-11-13_1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/256feeab-3a05-42af-b08e-0b991fa58940)
 <img src="assets/Preview/Screenshots/33.png" width="220"/>
 </p>
