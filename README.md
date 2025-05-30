@@ -1,4 +1,4 @@
-## 🧬 DNA Analyse app
+# 🧬 DNA Analyse app
 
 # Introduction
 
@@ -15,7 +15,7 @@ The core functionality of the app revolves around providing personalized genetic
 
 # ✨Features
 
-🧠 Dashboard
+##🧠 Dashboard
 	•	Displays a summary of user’s general health, including:
 	•	Genetic analysis results
 	•	Health risk ratios
@@ -76,7 +76,7 @@ The core functionality of the app revolves around providing personalized genetic
 	•	Reminders
 	•	Users can also manually add new medications as needed
 
-# Preview
+## Preview
 
 <p>
 <img src="assets/Preview/image1.jpeg" width="300"/><img src="assets/Preview/image2.jpeg" width="300"/>
