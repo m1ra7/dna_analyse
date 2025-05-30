@@ -47,7 +47,7 @@ Evaluates physical performance including:
 - Muscle fiber composition analysis (fast-twitch vs. slow-twitch) helps optimize workout plans
 
 ## 🤖 AI Chat (Gemini Integration)
-- Includes a built-in AI chat interface powered by Gemini (simulated)
+- Includes a built-in AI chat interface powered by Gemini
 - Users can ask health-related questions and receive contextual responses
 - Tapping on recommended medications or precautions opens AI explanations
 
