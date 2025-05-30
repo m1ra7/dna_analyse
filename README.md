@@ -47,7 +47,7 @@ Evaluates physical performance including:
 - Muscle fiber composition analysis (fast-twitch vs. slow-twitch) helps optimize workout plans
 
 ## 🤖 AI Chat (Gemini Integration)
-- Includes a built-in AI chat interface powered by Gemini
+- Includes a built-in AI chat interface powered by Gemini (simulated)
 - Users can ask health-related questions and receive contextual responses
 - Tapping on recommended medications or precautions opens AI explanations
 
@@ -64,7 +64,8 @@ Evaluates physical performance including:
 <p>
 <img src="assets/Preview/image1.jpeg" width="220"/> <img src="assets/Preview/image2.jpeg" width="220"/>
 <img src="assets/Preview/image3.jpeg" width="220"/> <img src="assets/Preview/image4.jpeg" width="220"/>
-<img src="assets/Preview/image5.jpeg" width="220"/> <img src="assets/Preview/image6.jpeg" width="220"/>
+<img src="assets/Preview/image5.jpeg" width="220"/> <img src="assets/Preview/image6.png" width="220"/>
+<img src="assets/Preview/image7.png" width="220"/> <img src="assets/Preview/image8.png" width="220"/>
 </p>
 
 ## Getting Started
@@ -79,4 +80,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
