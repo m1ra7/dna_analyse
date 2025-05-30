@@ -1,4 +1,4 @@
-##🧬 DNA Analyse app
+## 🧬 DNA Analyse app
 
 # Introduction
 
@@ -13,7 +13,7 @@ The core functionality of the app revolves around providing personalized genetic
 
 ⸻
 
-#✨ Features
+# ✨Features
 
 🧠 Dashboard
 	•	Displays a summary of user’s general health, including:
@@ -21,7 +21,7 @@ The core functionality of the app revolves around providing personalized genetic
 	•	Health risk ratios
 	•	Cardiovascular, neurological, metabolic, and immune system risk assessments
 
-📑 DNA Analysis Report
+## 📑 DNA Analysis Report
 	•	During registration, users enter:
 	•	DNA sequence
 	•	Full name, age, weight, height
@@ -29,16 +29,16 @@ The core functionality of the app revolves around providing personalized genetic
 	•	Blood type and gender
 	•	These inputs are used to generate a comprehensive DNA analysis report.
 
-#🤖 AI Chat (Gemini Integration)
+## 🤖 AI Chat (Gemini Integration)
 	•	A built-in AI chat page allows users to ask questions.
 	•	Responses are provided via Gemini (simulated, no real-time API).
 
-#🧬 Genetic Profile
+## 🧬 Genetic Profile
 	•	Displays:
 	•	DNA overview and raw genetic data
 	•	Traits like taste perception, circadian rhythm, color vision, muscle strength, pain sensitivity, and immune system data
 
-#🧪 Health Risk Profile
+## 🧪 Health Risk Profile
 	•	Provides:
 	•	Risk ratio visualization
 	•	Genetic risk factors
@@ -49,7 +49,7 @@ The core functionality of the app revolves around providing personalized genetic
 	•	Blood Sugar
 	•	Cholesterol
 
-#🥗 Nutrition Profile
+## 🥗 Nutrition Profile
 	•	Highlights:
 	•	Personalized metabolism type and rate
 	•	Custom diet plans and health recommendations
@@ -57,18 +57,18 @@ The core functionality of the app revolves around providing personalized genetic
 	•	Suggestions for weight loss or gain
 	•	Preventive health tips
 
-#💪 Fitness Profile
+## 💪 Fitness Profile
 	•	Displays user’s:
 	•	Muscle strength, endurance, flexibility
 	•	Fitness goals with recommended training programs
 	•	Muscle fiber composition analysis for custom exercise planning
 
-#💊 Medication Suggestions
+## 💊 Medication Suggestions
 	•	Post-analysis:
 	•	Suggests relevant medications or precautions
 	•	Tapping on a medication opens AI-powered descriptions of its use and details
 
-#⏰ Medication Tracking Page
+## ⏰ Medication Tracking Page
 	•	Lists all suggested medications
 	•	Includes:
 	•	Medication time
@@ -76,7 +76,7 @@ The core functionality of the app revolves around providing personalized genetic
 	•	Reminders
 	•	Users can also manually add new medications as needed
 
-## Preview
+# Preview
 
 <p>
 <img src="assets/Preview/image1.jpeg" width="300"/><img src="assets/Preview/image2.jpeg" width="300"/>
