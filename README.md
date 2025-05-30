@@ -8,9 +8,9 @@ The application supports iOS, Android, macOS, and Chrome platforms. It includes 
 
 The app is designed to provide users with a personalized genetic health overview based on input data, including features such as health risk analysis, nutrition recommendations, fitness guidance, and AI-based assistance.
 
-## Features
+# Features
 
-# 🧬 DNA & Health Profile
+## 🧬 DNA & Health Profile
 
 - During registration, users are prompted to enter:
 - DNA sequence
@@ -20,7 +20,7 @@ The app is designed to provide users with a personalized genetic health overview
 - DNA overview
 - Genetic traits such as taste perception, circadian rhythm, color vision, muscle strength, pain sensitivity, and immune system characteristics
 
-# 📊 Health Risk Analysis
+## 📊 Health Risk Analysis
 
 - Displays health risks and genetic factors through a detailed profile
 - Includes a Radar Chart (Spider Web Graph) to visualize:
@@ -30,7 +30,7 @@ The app is designed to provide users with a personalized genetic health overview
 - Blood sugar
 - Cholesterol levels
 
-# 🥗 Nutrition Profile
+## 🥗 Nutrition Profile
 
 - Offers insights based on the user’s metabolism type and rate
 - Personalized diet plans and nutritional advice
@@ -38,7 +38,7 @@ The app is designed to provide users with a personalized genetic health overview
 - Suggests protection tips for maintaining optimal health
 - Provides tailored advice for weight loss or gain
 
-# 🏋️‍♂️ Fitness Profile
+## 🏋️‍♂️ Fitness Profile
 
 - Evaluates physical performance including:
 - Muscle strength
@@ -47,13 +47,13 @@ The app is designed to provide users with a personalized genetic health overview
 - Recommends training plans based on user goals
 - Muscle fiber composition analysis (fast-twitch vs. slow-twitch) helps optimize workout plans
 
-# 🤖 AI Chat (Gemini Integration)
+## 🤖 AI Chat (Gemini Integration)
 
 - Includes a built-in AI chat interface powered by Gemini (simulated)
 - Users can ask health-related questions and receive contextual responses
 - Tapping on recommended medications or precautions opens AI explanations
 
-# 💊 Medication Tracker
+## 💊 Medication Tracker
 
 - Displays all suggested medications
 - For each medication, users can see:
