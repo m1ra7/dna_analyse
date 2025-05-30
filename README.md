@@ -11,19 +11,20 @@ The app is designed to provide users with a personalized genetic health overview
 # Features
 
 ## 🧬 DNA & Health Profile
-
-- During registration, users are prompted to enter:
+During registration, users are prompted to enter:
 - DNA sequence
 - Name, surname, age, height, weight
 - Gender, blood type, current medications, and medical history
-- Based on this information, the app provides:
+
+Based on this information, the app provides:
 - DNA overview
 - Genetic traits such as taste perception, circadian rhythm, color vision, muscle strength, pain sensitivity, and immune system characteristics
 
-## 📊 Health Risk Analysis
+## ⚕ Health Risk Analysis
 
 - Displays health risks and genetic factors through a detailed profile
-- Includes a Radar Chart (Spider Web Graph) to visualize:
+
+Includes a Radar Chart (Spider Web Graph) to visualize:
 - Body Mass Index (BMI)
 - Sleep quality
 - Blood pressure
@@ -31,7 +32,6 @@ The app is designed to provide users with a personalized genetic health overview
 - Cholesterol levels
 
 ## 🥗 Nutrition Profile
-
 - Offers insights based on the user’s metabolism type and rate
 - Personalized diet plans and nutritional advice
 - Analyzes vitamin and mineral levels to identify deficiencies or excesses
@@ -39,8 +39,7 @@ The app is designed to provide users with a personalized genetic health overview
 - Provides tailored advice for weight loss or gain
 
 ## 🏋️‍♂️ Fitness Profile
-
-- Evaluates physical performance including:
+Evaluates physical performance including:
 - Muscle strength
 - Endurance
 - Flexibility
@@ -48,13 +47,11 @@ The app is designed to provide users with a personalized genetic health overview
 - Muscle fiber composition analysis (fast-twitch vs. slow-twitch) helps optimize workout plans
 
 ## 🤖 AI Chat (Gemini Integration)
-
 - Includes a built-in AI chat interface powered by Gemini (simulated)
 - Users can ask health-related questions and receive contextual responses
 - Tapping on recommended medications or precautions opens AI explanations
 
 ## 💊 Medication Tracker
-
 - Displays all suggested medications
 - For each medication, users can see:
 - Dosage time
@@ -65,9 +62,9 @@ The app is designed to provide users with a personalized genetic health overview
 ## Preview
 
 <p>
-<img src="assets/Preview/image1.jpeg" width="270"/> <img src="assets/Preview/image2.jpeg" width="270"/>
-<img src="assets/Preview/image3.jpeg" width="270"/> <img src="assets/Preview/image4.jpeg" width="270"/>
-<img src="assets/Preview/image5.jpeg" width="270"/> <img src="assets/Preview/image6.jpeg" width="280"/>
+<img src="assets/Preview/image1.jpeg" width="250"/> <img src="assets/Preview/image2.jpeg" width="270"/>
+<img src="assets/Preview/image3.jpeg" width="250"/> <img src="assets/Preview/image4.jpeg" width="270"/>
+<img src="assets/Preview/image5.jpeg" width="200"/> <img src="assets/Preview/image6.jpeg" width="280"/>
 </p>
 
 ## Getting Started
