@@ -5,7 +5,7 @@ A new Flutter project.
 ## Screenshots
 
 <p>
-<img src="assets/Preview/1.png" width="400"/>
+<img src="assets/Preview/image1.jpeg" width="400"/>
 
 
 </p>
