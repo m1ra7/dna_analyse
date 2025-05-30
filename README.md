@@ -62,9 +62,9 @@ Evaluates physical performance including:
 ## Preview
 
 <p>
-<img src="assets/Preview/image1.jpeg" width="250"/> <img src="assets/Preview/image2.jpeg" width="270"/>
-<img src="assets/Preview/image3.jpeg" width="250"/> <img src="assets/Preview/image4.jpeg" width="270"/>
-<img src="assets/Preview/image5.jpeg" width="200"/> <img src="assets/Preview/image6.jpeg" width="280"/>
+<img src="assets/Preview/image1.jpeg" width="220"/> <img src="assets/Preview/image2.jpeg" width="220"/>
+<img src="assets/Preview/image3.jpeg" width="220"/> <img src="assets/Preview/image4.jpeg" width="220"/>
+<img src="assets/Preview/image5.jpeg" width="220"/> <img src="assets/Preview/image6.jpeg" width="220"/>
 </p>
 
 ## Getting Started
