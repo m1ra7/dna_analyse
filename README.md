@@ -65,9 +65,12 @@ Evaluates physical performance including:
 <img src="assets/Preview/image3.jpeg" width="220"/> <img src="assets/Preview/image4.jpeg" width="220"/>
 <img src="assets/Preview/image5.jpeg" width="220"/> 
   </p>
-  <p>
-# Screenshots
+## Screenshots
+<p>
 <img src="assets/Preview/preview9.png"/> 
+<img src="assets/Preview/preview10.png"/> 
+<img src="assets/Preview/preview11.png"/> 
+<img src="assets/Preview/preview12.png"/> 
 </p>
 ## Analysing
 </p>
