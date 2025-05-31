@@ -1,5 +1,5 @@
 # 🧬 DNA Analyse app
-
+https://github.com/m1ra7/dna_analyse/blob/main/README.md
 # Introduction
 
 This project is a cross-platform DNA analysis application built using Flutter. The application simulates real data using a predefined JSON file and displays it using FutureBuilder.
@@ -54,7 +54,7 @@ Evaluates physical performance including:
 - Recommends training plans based on user goals
 - Muscle fiber composition analysis (fast-twitch vs. slow-twitch) helps optimize workout plans
 
-## 🤖 AI Chat (Gemini Integration)
+## 🤖 AI (Gemini Integration)
 - Includes a built-in AI chat interface powered by Gemini
 - Users can ask health-related questions and receive contextual responses
 - Tapping on recommended medications or precautions opens AI explanations
