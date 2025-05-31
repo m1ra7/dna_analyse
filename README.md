@@ -2,13 +2,21 @@
 
 # Introduction
 
-This project is a cross-platform health and wellness application built using Flutter and Supabase (as the backend database). While Supabase and Gemini APIs are not actively integrated, the app simulates real data using a pre-defined JSON file and displays it using FutureBuilder.
+This project is a cross-platform DNA analysis application built using Flutter and Supabase. The application simulates real data using a predefined JSON file and displays it using FutureBuilder.
 
-The application supports iOS, Android, macOS, and Chrome platforms. It includes several modern features such as dynamic app icon switching for Apple devices, light and dark mode support, and localization (l10n) with English and Turkish language options.
+The app supports iOS, Android, macOS, and Chrome platforms. It includes various modern features such as dynamic app icon changing for Apple devices, light and dark mode support, and localization (l10n) with English and Turkish language options.
 
-The app is designed to provide users with a personalized genetic health overview based on input data, including features such as health risk analysis, nutrition recommendations, fitness guidance, and AI-based assistance.
+The application is designed to provide users with a personalized genetic health overview based on input data, including features such as health risk analysis, nutritional recommendations, fitness guidance, and AI-powered assistance.
 
 # Features
+
+- Built with Flutter (supports iOS, Android, macOS, Chrome)
+- Database: Supabase (requires API key)
+- AI Integration: Gemini for chat and medication explanations (requires API key)
+- Simulated Data: Uses pre-generated JSON with FutureBuilder for demo purposes
+- Dynamic App Icon: iOS-specific icon customization
+- Localization: English/Turkish support (l10n)
+- Theming: Light/dark mode toggle
 
 ## 🧬 DNA & Health Profile
 During registration, users are prompted to enter:
