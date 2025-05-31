@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project is a cross-platform DNA analysis application built using Flutter and Supabase. The application simulates real data using a predefined JSON file and displays it using FutureBuilder.
+This project is a cross-platform DNA analysis application built using Flutter. The application simulates real data using a predefined JSON file and displays it using FutureBuilder.
 
 The app supports iOS, Android, macOS, and Chrome platforms. It includes various modern features such as dynamic app icon changing for Apple devices, light and dark mode support, and localization (l10n) with English and Turkish language options.
 
