@@ -65,20 +65,24 @@ Evaluates physical performance including:
 <img src="assets/Preview/image3.jpeg" width="220"/> <img src="assets/Preview/image4.jpeg" width="220"/>
 <img src="assets/Preview/image5.jpeg" width="220"/> 
 </p>
-Screenshots
+
+
+
+## Screenshots
 <p>
 <img src="assets/Preview/image12.png"/> 
 <img src="assets/Preview/image9.png"/>
 <img src="assets/Preview/image10.png"/>
 <img src="assets/Preview/image11.png"/> 
 </p>
-# Analysing
+
+
+## Analysing
 </p>
 <img src="https://github.com/user-attachments/assets/256feeab-3a05-42af-b08e-0b991fa58940" width="220">
 </p>
 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
