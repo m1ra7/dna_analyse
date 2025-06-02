@@ -588,8 +588,8 @@ final analysisResult = AnalysisResult(
   userInformation: UserInformation(
     name: "Mirac",
     surname: "Suicmez",
-    age: 24,
-    gender: "erkek",
+    age: 25,
+    gender: "men",
     ethnicity: "ethnicity",
     medicalHistory: "medicalHistory",
     familyHistory: "familyHistory",
