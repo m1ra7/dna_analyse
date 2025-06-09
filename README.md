@@ -11,6 +11,7 @@ The application is designed to provide users with a personalized genetic health 
 
 - Built with Flutter (supports iOS, Android, macOS, Chrome)
 - Database: Supabase (requires API key)
+- It was made without the State Management(BLoC) feature.
 - AI Integration: Gemini for chat and medication explanations (requires API key)
 - Simulated Data: Uses pre-generated JSON with FutureBuilder for demo purposes
 - Dynamic App Icon: iOS-specific icon customization
