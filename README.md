@@ -6,7 +6,7 @@ The app supports iOS, Android, macOS, and Chrome platforms. It includes various 
 
 The application is designed to provide users with a personalized genetic health overview based on input data, including features such as health risk analysis, nutritional recommendations, fitness guidance, and AI-powered assistance.
 
-# Features
+## Features
 
 - Built with Flutter (supports iOS, Android, macOS, Chrome)
 - Database: Supabase (requires API key)
