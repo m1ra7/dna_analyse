@@ -1,5 +1,4 @@
-# 🧬 DNA Analyse app
-# Introduction
+# DNA Analyse app
 
 This project is a cross-platform DNA analysis application built using Flutter. The application simulates real data using a predefined JSON file and displays it using FutureBuilder.
 
